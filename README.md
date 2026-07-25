@@ -23,3 +23,6 @@ This project analyzes three years of company revenue, expenses and net profit.
 - Revenue_Report.pdf
 - Excel Workbook
 - Charts
+
+##Autor
+-Seidu Hameedat Desola
